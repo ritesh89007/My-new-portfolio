@@ -1,2 +1,2 @@
 # My-new-portfolio
-something about me..
+https://ritesh89007.github.io/My-new-portfolio/
